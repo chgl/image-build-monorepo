@@ -3,20 +3,10 @@
   "release-type": "simple",
   "packages": {
     "src/images/test": {
-      "changelog-path": "src/images/test/CHANGELOG.md",
-      "release-type": "simple",
-      "bump-minor-pre-major": false,
-      "bump-patch-for-minor-pre-major": false,
-      "draft": false,
-      "prerelease": false
+      "changelog-path": "src/images/test/CHANGELOG.md"
     },
     "src/images/test2": {
-      "changelog-path": "src/images/test2/CHANGELOG.md",
-      "release-type": "simple",
-      "bump-minor-pre-major": false,
-      "bump-patch-for-minor-pre-major": false,
-      "draft": false,
-      "prerelease": false
+      "changelog-path": "src/images/test2/CHANGELOG.md"
     }
   }
 }
